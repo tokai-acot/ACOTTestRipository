@@ -4,3 +4,4 @@ aaaa
 wwww
 nikujaga
 matumae
+ahokusa
